@@ -1,0 +1,2 @@
+git remote add origin https://github.com/dedjebonoua/omni-sante.git
+git push -u origin master
